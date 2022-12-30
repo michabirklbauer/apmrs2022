@@ -6,7 +6,7 @@ Short talk presentation for [APMRS 2022](https://www.apma.at/2022/02/14/scp-apmr
 
 **Identifying Crosslinks in MS2-MS3-based Workflows with MS Annika**
 
-Micha Johannes Birklbauer [1], Manuel Matzinger [2], Fränze Müller [2], Karl Mechtler [2, 3, 4], Viktoria Dorfer [1]
+*Micha Johannes Birklbauer [1], Manuel Matzinger [2], Fränze Müller [2], Karl Mechtler [2, 3, 4], Viktoria Dorfer [1]*
 
 [1] University of Applied Sciences Upper Austria, Bioinformatics Research Group, Softwarepark 11, 4232 Hagenberg, Austria  
 [2] Institute of Molecular Pathology (IMP), Vienna BioCenter (VBC), Campus-Vienna-Biocenter 1, 1030 Vienna, Austria  
